@@ -8,6 +8,6 @@ A very simple and easy to understand browser game that can teach you the basics 
 - HTML, CSS
 - JavaScript
 
-[Try it!](https://geet2601.github.io/DragonSlayer/)
+[## Try it!](https://geet2601.github.io/DragonSlayer/)
 
 ## Modify and make your own project using this code as a template
